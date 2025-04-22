@@ -28,9 +28,6 @@ terraform-docker-nginx-app/ ├── main.tf # Terraform configuration
 └── site-content/ # Static content served by NGINX
     └── index.html
 
-yaml
-
-
 
 ---
 
